@@ -1,1 +1,1 @@
-## Shared AI Resources 
+# Shared AI Resources
